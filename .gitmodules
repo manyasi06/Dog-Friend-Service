@@ -1,0 +1,3 @@
+[submodule "Dog-Friend-Service"]
+	path = Dog-Friend-Service
+	url = https://github.com/manyasi06/Dog-Friend-Service.git
